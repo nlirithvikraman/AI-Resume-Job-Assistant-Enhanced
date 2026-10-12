@@ -1,0 +1,22 @@
+Priya Sharma
+priya.sharma@example.com | +91 90000 00000 | github.com/example | linkedin.com/in/example
+
+Summary
+Final-year computer science student interested in machine learning and backend development.
+
+Skills
+Python, SQL, Pandas, scikit-learn, Flask, Git, HTML, CSS, MySQL, teamwork
+
+Experience
+Data Intern, Acme Analytics (Jun 2025 - Aug 2025)
+- Cleaned and analysed sales data with Pandas, cutting reporting time by 40%
+- Built a Flask API serving 3 internal dashboards used by 25 analysts
+
+Projects
+Movie Recommender
+- Built a content-based recommender with TF-IDF and cosine similarity on 10,000 movies
+Student Portal
+- Developed a REST API with Flask and MySQL for 200 students
+
+Education
+B.Tech Computer Science, Anna University, 2026, CGPA 8.4

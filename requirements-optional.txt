@@ -1,0 +1,4 @@
+# Only needed if enabling RESUME_AI_EMBEDDINGS=1 (downloads a model on first use).
+sentence-transformers>=3,<6
+# Optional name detection; also run: python -m spacy download en_core_web_sm
+spacy>=3.7,<4

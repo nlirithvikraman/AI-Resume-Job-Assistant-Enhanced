@@ -1,0 +1,5 @@
+Machine Learning Engineer (Junior)
+We are looking for a junior ML engineer to build NLP features for our product.
+Requirements: Python, machine learning, NLP, PyTorch, Docker, AWS, SQL, Git, REST API, FastAPI.
+Nice to have: Hugging Face, transformers, MLOps, communication skills.
+You will train models, deploy them as APIs, and collaborate with product teams.

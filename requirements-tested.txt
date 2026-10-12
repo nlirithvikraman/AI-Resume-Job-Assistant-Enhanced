@@ -1,0 +1,10 @@
+# Exact top-level versions used during validation; transitive dependencies are not locked.
+streamlit==1.65.0
+pdfplumber==0.11.9
+python-docx==1.2.0
+scikit-learn==1.8.0
+google-genai==1.75.0
+pandas==2.2.3
+python-dotenv==1.2.4
+reportlab==4.4.9
+pytest==8.4.2
